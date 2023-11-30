@@ -14,6 +14,7 @@ DATABASES = {
 STATIC_ROOT = '/home/decide/static/'
 MEDIA_ROOT = '/home/decide/static/media/'
 ALLOWED_HOSTS = ['*']
+ALLOWED_ORIGINS = ['https://github.com/Jaimegg177/EGC-2324-1830-jaigargar1.git']
 
 # Modules in use, commented modules that you won't use
 MODULES = [
